@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div style="text-align: center;">
+    <H2>Hi 👋, I'm Muhammad Nuruddin Fitrah </H2>
+</div>
 <!--
 **AddienGM/AddienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on *@TravelBerlabuh_Kelompok2*
+🌱 I’m currently learning **3d Model And Robotic**
+📫 How to reach me muhammadnuruddinfitrah@gmail.com

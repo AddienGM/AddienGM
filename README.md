@@ -1,5 +1,5 @@
 # Hi , I'm Muhammad Nuruddin Fitrah
-🔭 I’m currently working on @TravelBerlabuh_Kelompok2<br><br>🌱 I’m currently learning **3d Model And Robotic**<br><br>📫 How to reach me muhammadnuruddinfitrah@gmail.com
+🔭 I’m currently working on @TravelBerlabuh_Kelompok2<br><br>🌱 I’m currently learning **Php And Arduino**<br><br>📫 How to reach me muhammadnuruddinfitrah@gmail.com
 
 
 ### 🌐 Socials:

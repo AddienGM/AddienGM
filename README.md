@@ -1,4 +1,7 @@
-# Hi , I'm Muhammad Nuruddin Fitrah
+<div align="center">
+  <h2>Hi 👋, I'm Muhammad Nuruddin Fitrah</h2>
+</div>
+    
 🔭 I’m currently working on @TravelBerlabuh_Kelompok2<br><br>🌱 I’m currently learning **Php And Arduino**<br><br>📫 How to reach me muhammadnuruddinfitrah@gmail.com
 
 

@@ -1,7 +1,6 @@
 <div style="text-align: center;">
     <H2>Hi 👋, I'm Muhammad Nuruddin Fitrah </H2>
 </div>
-
 <!--
 **AddienGM/AddienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

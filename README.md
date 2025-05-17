@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" size=30px>
   <h2>Hi 👋, I'm Muhammad Nuruddin Fitrah</h2>
 </div>
     

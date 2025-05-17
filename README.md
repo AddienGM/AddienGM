@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Muhammad Nuruddin Fitrah</h1>
+  <h1>Hello 👋, I'm Muhammad Nuruddin Fitrah</h1>
 </div>
     
 🔭 I’m currently working on @TravelBerlabuh_Kelompok2<br><br>🌱 I’m currently learning **Php And Arduino**<br><br>📫 How to reach me muhammadnuruddinfitrah@gmail.com
